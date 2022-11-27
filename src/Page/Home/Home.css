@@ -1,0 +1,38 @@
+
+button{
+    padding: 10px 20px;
+    margin-left: 10px;
+    margin-right: 10px;    
+    border: 2px solid #F77F00;
+    border-radius: 5px;
+    background-color: #002f4900;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+textarea{
+    padding: 15px;
+    border-radius: 5px;
+    border: none;   
+    background-color: #003049;
+    color: white;
+    font-size: 16px;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.home{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-grp{
+    margin-top: 30px;
+}
+

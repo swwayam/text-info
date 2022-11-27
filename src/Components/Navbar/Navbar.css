@@ -1,0 +1,39 @@
+nav{
+    padding: 20px;
+}
+                             
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.a-light{
+    color: #fff ;
+    
+}
+
+.a-dark{
+    color: #fff;
+}
+
+.nav-light{
+    background-color: #d62828c7 ;
+}
+
+.nav-dark{
+    background-color: rgb(0, 0, 0);
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: 700;
+}
